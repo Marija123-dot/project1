@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653637672 source:c:\users\marija\desktop\labs\project.inki729\main.cpp
+	<ios>
+	<iostream>
+	<fstream>
+	<ostream>
+	<string>
+	<vector>
+	<map>
+	<bits/stdc++.h>
+
